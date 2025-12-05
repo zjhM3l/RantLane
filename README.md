@@ -1,5 +1,7 @@
 # RantLane — Honked Yet?
 
+[English](README.md) | [中文说明](README_zh-CN.md)
+
 > A tongue-in-cheek CarPlay-friendly experiment for talking **around** other drivers, not **at** them.
 
 RantLane started from a very specific moment:  
